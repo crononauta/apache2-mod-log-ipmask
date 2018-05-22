@@ -1,3 +1,9 @@
+apache2-mod-log-ipmask (1.0.0+crononauta0) stable; urgency=low
+
+  * Use a custom version.
+
+ -- Manuel Viera <manuel.viera@crononauta.com>  Thu, 22 Mar 2018 16:20:18 +0100
+
 apache2-mod-log-ipmask (1.0.0) stable; urgency=low
 
   * Initial release.
